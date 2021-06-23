@@ -1,4 +1,4 @@
-# WeChat-LeaveSystem
+# WeChat-SeaveSystem
 
 ### description
 
